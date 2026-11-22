@@ -5,8 +5,8 @@
 What James wants to build: <https://www.youtube.com/watch?v=kQRYIH2HwfY>, "Arduino Radar
 Project" by How To Mechatronics (2015, 4m51s). The written tutorial, with schematic and code,
 is at <https://howtomechatronics.com/projects/arduino-radar-project/> (fetched 2026-11-13).
-The original code isn't copied here: `source/README.md` has the link. Below, under "What we
-changed compared to the original", is every difference.
+The original code is in `source/`. Below, under "What we changed compared to the original",
+is every difference.
 
 ## How it works
 
@@ -315,6 +315,11 @@ paths in this guide are relative, so they still hold.
 article's original code is no longer kept here: we found no licence that allows copying it.
 `source/README.md` links to it. The comparison under "What we changed" still holds; it was
 made against the original (fetched 2026-11-13), which the coach keeps privately.
+
+2026-11-22 — The article's original code is back in `source/` (Wim), now public on GitHub
+too, with the credit and the link in `source/README.md`. Same files as on 2026-11-13; only
+the "Our version" line in their header changed. The comments at the top of `03_radar.ino`
+and `radar_display.pde` point there again.
 
 ## Open questions
 

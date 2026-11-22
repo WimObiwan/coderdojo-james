@@ -82,7 +82,7 @@ one.
   <https://hackaday.com/2014/02/13/a-clock-that-plots-time> and
   <https://www.elektormagazine.com/news/plotclock-writes-the-time-> (search results,
   2026-11-22; not read in full yet). If chosen, check its licence before copying any of
-  it here; otherwise link to it, like the radar's `source/README.md`.
+  it here; otherwise only link to it.
 - **Step up:** the radar went from *angle to point* with sin/cos. This goes from *point to
   angles* (inverse kinematics: atan2 and the law of cosines). It also needs calibration, and
   each digit has to be drawn as strokes.
